@@ -1,3 +1,4 @@
 Create notification text box.
 Include toggle button besides Notification text to put the notification ON and OFF according to the requirement of the user.
 Link time selection menu to the ON state of toggle button to select the time for the notification from the user.
+For social media login include Facebook and Gmail options on sign up page.
